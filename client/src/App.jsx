@@ -5,6 +5,10 @@ import {
   Link  
 }   
 from 'react-router-dom';  
+import React from "react";
+import Home from './components/home';
+import Contact from './components/contact';
+import About from './components/about';
 import './App.css'
 
 function App() {
